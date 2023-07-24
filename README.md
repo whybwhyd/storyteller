@@ -17,9 +17,9 @@
 - # 페이지 소개
 
   1. Main 페이지: 장르 카테고리 별 드라마를 카드 형식으로 추천합니다. ![Alt text](image-13.png)![Alt text](image.png)
-  2. Search 페이지: 카테고리 별로 드라마를 확인할 수 있으며 결과가 없을 때 추천 목록이 뜹니다. 
-  3. Detail 페이지: 카드를 누르면 드라마 세부 내용을 확인할 수 있습니다. 
-  4. Edit 페이지: 드라마 별 내용을 수정할 수 있습니다. 수정 전 내용도 확인 가능합니다. 
-  5. About 페이지: 페이지 소개 페이지입니다.
-  6. Admin 페이지: 글 목록 확인 및 작성이 가능합니다. 로그인을 해야 글 작성 및 수정이 가능합니다. 
-  7. Write 페이지: 에디터가 글을 작성할 수 있는 페이지입니다.
+  2. Search 페이지: 카테고리 별로 드라마를 확인할 수 있으며 결과가 없을 때 추천 목록이 뜹니다.![Alt text](image-1.png)![Alt text](image-2.png)
+  3. Detail 페이지: 카드를 누르면 드라마 세부 내용을 확인할 수 있습니다.![Alt text](image-3.png) ![Alt text](image-4.png)
+  4. About 페이지: 페이지 소개 페이지입니다.![Alt text](image-5.png)
+  5. Admin 페이지: 글 목록 확인 및 작성이 가능합니다. 로그인을 해야 글 작성 및 수정이 가능합니다.![Alt text](image-6.png)
+  6. Write 페이지: 에디터가 글을 작성할 수 있는 페이지입니다.![Alt text](image-7.png) ![Alt text](image-8.png)
+  7. Edit 페이지: 드라마 별 내용을 수정할 수 있습니다. 수정 전 내용도 확인 가능합니다.![Alt text](image-9.png) ![Alt text](image-10.png)
