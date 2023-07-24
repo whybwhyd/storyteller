@@ -148,7 +148,7 @@ const WritePage = () => {
           <div>category</div>
           {/* 카테고리 선택 드롭다운 */}
           <Select handleSaveOption={handleSaveOption} />
-          <div>body</div>
+          <div>content</div>
           <St.BodyTextarea
             name='body'
             cols='30'
