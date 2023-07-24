@@ -26,7 +26,6 @@ function YoutubeMain() {
         `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=PLYZAHhM04Ewonz9bUbfaFTR_u7Bg5_BP7&maxResults=4&key=${YOUTUBE_API_KEY_MAIN}`
       )
       .then((res) => {
-        console.log('res=>', res)
         setVideoList(res.data.items)
       })
       .catch(() => {})
@@ -42,7 +41,6 @@ function YoutubeMain() {
         `https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&id=vwxKPgn3Mbo&id=VRI3GVZjFrM&id=CCOANmV-Qpg&id=aPAu-ePYfLg&id=stzQyxvSSt0&id=e0_a93-pabk&id=bNoJiT8cQ3Y&id=AapSj0ncwqU&id=v7WYUm2OyKI&id=b_u7pEZ5dUc&maxResults=4&key=${YOUTUBE_API_KEY_MAIN}`
       )
       .then((res) => {
-        console.log(res)
         setVideoInfo(res.data.items)
       })
       .catch(() => {})
