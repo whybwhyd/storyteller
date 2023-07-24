@@ -2,6 +2,7 @@ import React from 'react'
 import { useNavigate } from 'react-router-dom'
 import { styled } from 'styled-components'
 import logo2 from '../assets/logo2.png'
+import LoginForm from '../components/form/LoginForm'
 
 const StHeader = styled.div`
   width: 100%;
