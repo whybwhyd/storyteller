@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals'
 
 import firebaseApp from './firebase'
 
-console.log('See if firebase is connected', firebaseApp)
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'))
 root.render(
