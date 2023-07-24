@@ -2,8 +2,6 @@ import React from 'react'
 import { useNavigate } from 'react-router-dom'
 import { styled } from 'styled-components'
 import logo2 from '../assets/logo2.png'
-import LoginForm from '../components/form/LoginForm'
-import * as St from '../style/StAboutStyled'
 
 const StHeader = styled.div`
   width: 100%;
@@ -54,8 +52,6 @@ function Header() {
   return (
     <StHeader>
       <StLogo src={logo2} alt='logo' onClick={() => navigate('/')} />
-      <St.LoginBtn onClick={openModal}>Admin</St.LoginBtn>
-      {isOpen && <LoginForm closeModal={closeModal} />}
     </StHeader>
   )
 }
