@@ -20,6 +20,7 @@
 
 #### Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![youtube](https://img.shields.io/badge/-youtube--api-FF0000?style=for-the-badge&logo=youtube&logoColor=white) 
+
 ---
  # 팀원 소개
 | 팀원 | MBTI | 블로그 | 깃허브 |
