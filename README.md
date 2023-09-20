@@ -28,12 +28,12 @@
 
 # 팀원 소개
 
-|  팀원  | MBTI |                    블로그                    |                       깃허브                        |
-| :----: | :--: | :------------------------------------------: | :-------------------------------------------------: |
-| 김진우 | ENTP |        https://velog.io/@wlsdn090909         |   https://github.com/Kimjinwoo1 열심히하겠습니다.   |
-| 백연주 | ENFP |           hellokeitha.tistory.com            |        https://github.com/hellokeitha 화팅!         |
-| 이서진 | ENFJ | https://blossomflower2214.tistory.com/manage | https://github.com/leeseojin221 맡은 기능 완성하기! |
-| 백예나 | INFP |     https://blog.naver.com/driarydiary12     |        https://github.com/whybwhyd 화이팅..!        |
+| 김진우 | 백연주 | 이서진 | 백예나 |
+| :-: | :-: | :-: | :-: |
+| ENTP | ENFP | ENFJ | INFP |
+| https://velog.io/@wlsdn090909 | hellokeitha.tistory.com | https://blossomflower2214.tistory.com/manage | https://velog.io/@jntantmsemt |
+| https://github.com/Kimjinwoo1 | https://github.com/hellokeitha | https://github.com/leeseojin221 | https://github.com/whybwhyd |
+| 열심히하겠습니다. | 화팅! | 맡은 기능 완성하기! | 화이팅..! |
 
 ---
 
