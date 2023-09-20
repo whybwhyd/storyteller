@@ -1,6 +1,6 @@
 # 프로젝트
 
-![Alt text](image.png) 
+![Alt text](image.png)
 
 <b>프로젝트 이름</b> : 스토리 텔러 <br/>
 
@@ -30,12 +30,12 @@
 
 # 팀원 소개
 
-|  팀원  | MBTI |                    블로그                    |             깃허브              | 한마디              |
-| :----: | :--: | :------------------------------------------: | :-----------------------------: | ------------------- |
-| 김진우 | ENTP |        https://velog.io/@wlsdn090909         |  https://github.com/Kimjinwoo1  | 열심히하겠습니다.   |
-| 백연주 | ENFP |           hellokeitha.tistory.com            | https://github.com/hellokeitha  | 화팅!               |
-| 이서진 | ENFJ | https://blossomflower2214.tistory.com/manage | https://github.com/leeseojin221 | 맡은 기능 완성하기! |
-| 백예나 | INFP |     https://blog.naver.com/driarydiary12     |   https://github.com/whybwhyd   | 화이팅..!           |
+|  팀원  | MBTI |                    블로그                    |             깃허브              |
+| :----: | :--: | :------------------------------------------: | :-----------------------------: |
+| 김진우 | ENTP |        https://velog.io/@wlsdn090909         |  https://github.com/Kimjinwoo1  |
+| 백연주 | ENFP |           hellokeitha.tistory.com            | https://github.com/hellokeitha  |
+| 이서진 | ENFJ | https://blossomflower2214.tistory.com/manage | https://github.com/leeseojin221 |
+| 백예나 | INFP |     https://blog.naver.com/driarydiary12     |   https://github.com/whybwhyd   |
 
 ---
 
